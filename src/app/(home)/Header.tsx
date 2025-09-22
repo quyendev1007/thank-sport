@@ -132,7 +132,7 @@ const Header = () => {
             <Input placeholder="Tìm kiếm..." className="rounded-full " />
             <SearchIcon
               size={20}
-              className="absolute cursor-pointer top-[30%] right-2"
+              className="absolute cursor-pointer top-[25%] right-2"
             />
           </div>
           <Link href={"/cart"} className="relative flex items-center">
